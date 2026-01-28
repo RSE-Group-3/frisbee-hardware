@@ -1,0 +1,186 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="GuerfdAyc4kCMWVh7zNQ">
+    <mxGraphModel dx="3387" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;7.3 Hardware Integration Testing&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-3" target="zrEWn8lV9A4cAx9t1_w5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-3" target="zrEWn8lV9A4cAx9t1_w5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;7.2 Component Integration&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-4" target="zrEWn8lV9A4cAx9t1_w5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;7.1 Setup Motor and Wheel&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="435" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-5" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.5 Field Test Path Planning&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-6" target="zrEWn8lV9A4cAx9t1_w5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-6" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.4 Test Mapper and Path Planning in Simulation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-7" target="zrEWn8lV9A4cAx9t1_w5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-7" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.3.3 Integrate Mobility Nodes with Mobility Hardware&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-8" target="zrEWn8lV9A4cAx9t1_w5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-8" value="&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot;&gt;7.1.1 Chassis Construction&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-9" target="zrEWn8lV9A4cAx9t1_w5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-9" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;7.1.2 Motor Installation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-10" target="zrEWn8lV9A4cAx9t1_w5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-10" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;7.1.3 Wheel Mounting&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-17" target="zrEWn8lV9A4cAx9t1_w5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-17" target="zrEWn8lV9A4cAx9t1_w5-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="355" />
+              <mxPoint x="1280" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-17" target="zrEWn8lV9A4cAx9t1_w5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-17" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.3.2 Implement Mobility Fault Recovery&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-18" target="zrEWn8lV9A4cAx9t1_w5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-18" target="zrEWn8lV9A4cAx9t1_w5-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="355" />
+              <mxPoint x="1100" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-18" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.3.1 Integrate Mobility Nodes with Perception Data&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-20" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.3 Implement Mobility ROS Nodes&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-21" target="zrEWn8lV9A4cAx9t1_w5-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-21" target="zrEWn8lV9A4cAx9t1_w5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-21" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.2 Develop Global Planning and Local Planning Algorithms&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrEWn8lV9A4cAx9t1_w5-23" target="zrEWn8lV9A4cAx9t1_w5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-23" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;6.1 Develop Mapping Algorithm&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-39" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.1 Data Collection&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-40" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.2 Vision Model Development&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-41" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.2.1 Design Model Architecture&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-42" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.2.2 Train and Evaluate Vision Models&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-43" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.3 Implement Vision ROS Nodes&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-44" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.4 Process Vision Node Output for Path Planner&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-45" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;5.5 Field Test Vision Nodes&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-46" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.1 ROS Starter Code&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-47" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.2 Task Planning Algorithm&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-49" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.3 Write Software Tests&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-50" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.4 Integrate Subsystem Code with Central Planner Node&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="500" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-51" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.4.1 Simulate Behavior Tree without Subsystems Implemented&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="520" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-53" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.4.2 Test Software with Subsystems Fully Implemented&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-55" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;4.4.3 Test Subsystem Failure Propagation and Recovery&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="660" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-56" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.1 Launcher and Collector Wiring&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-57" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.1.1 Launcher Electrical Setup&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-58" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.1.2 Collector Electrical Setup&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-59" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.1.3 Temporary Power Setup for Subsystem Testing&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-60" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.2 E-stop Integration&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-61" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.2.1 Power Rail Construction&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-63" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.2.2 Safety Validation&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-64" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.3 System Power Distribution Routing&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-65" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;3.4 Full System Validation and Testing&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrEWn8lV9A4cAx9t1_w5-66" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
